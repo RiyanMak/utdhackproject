@@ -54,4 +54,29 @@ h2{
   align-items: center;
   justify-content: center;
   font-size: 50px;
+  padding-bottom: 10%;
+}
+
+.advising{
+  background-color: rgb(75, 75, 75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+}
+
+.loan{
+  background-color: rgb(75, 75, 75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+}
+
+.investment{
+  background-color: rgb(75, 75, 75);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
 }
