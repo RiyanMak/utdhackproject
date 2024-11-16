@@ -5,28 +5,53 @@
 }
 
 header{
-  background-color: rgb(172, 144, 64);
+  background-color: rgb(34, 34, 34);
 }
 
 body{
-  background-color: rgb(196, 215, 231);
+  background-color: rgb(199, 220, 235);
 }
 
 nav{
   padding: 4%;
   display: flex;
   align-items: center;
-  justify-content: space-around;
-  color: black;
+  justify-content: center;
+  color: rgb(155, 222, 250);
 }
 
 a{
-  font-weight: 400;
+  font-weight: 500;
   font-size: 20px;
-  color: black;
+  color: rgb(172, 144, 64);
   transition: 400ms;
 }
 
 a:hover{
-  color: rgb(169, 200, 227);
+  color: rgb(199, 220, 235);
+  font-size: 24px;
+}
+
+
+.title{
+  color: rgb(172, 144, 64);
+  padding-top: 9%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+}
+
+h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.utdtitle{
+  color: rgb(66, 134, 84);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
 }
