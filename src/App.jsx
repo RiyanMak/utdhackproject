@@ -22,7 +22,8 @@ function App() {
             <div className='advising'>
               <h1>Schedule an Advising Appointment</h1>
               <h3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla ipsum doloribus odio, quae deserunt excepturi numquam eveniet, ipsa dolor nesciunt repudiandae dicta ipsam rem inventore nam. Perspiciatis illo eligendi veritatis?</h3>
-              <button className='advisingbutton'> Get Started </button>
+              <button className='advisingbutton'> Get Started! </button>
+
             </div>
           </div>
             <div className='loan'>
