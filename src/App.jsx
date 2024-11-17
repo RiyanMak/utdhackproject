@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import './components/login.jsx'
 
 function App() {
   return (
